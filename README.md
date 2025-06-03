@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Khairatul and I'm a frond end developer, from Indonesia</p>
+<p align="left">My name is Khairatul and I'm a frond end developer, from Indonesia Jakarta</p>
 
 ###
 
