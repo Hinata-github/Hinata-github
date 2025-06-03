@@ -12,11 +12,6 @@
 
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Machine Learning <br>🎯 Goals: Humble and Kind to all people<br>🎲 Fun fact: i can't sing</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hinata0582_98410) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kkhai20/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khairatul-931357281/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadkhairatul1201@gmail.com) 
 
